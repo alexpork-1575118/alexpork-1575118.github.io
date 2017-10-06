@@ -24,3 +24,14 @@ img {
     float: right;
     margin: 0 0 10px 10px;
 }
+.image {
+    position:relative;
+}
+
+.text {
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 30px;
+    width: 100%
+}
