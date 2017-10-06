@@ -1,0 +1,29 @@
+div {
+    opacity: 3.0;
+}
+body{
+	background-color: yellow;
+}
+p.ex1 {
+    font: 15px arial, sans-serif;
+}
+p.ex2 {
+    font: italic bold 12px/30px Georgia, serif;
+}
+p {
+    max-width: 50px;
+}
+p {
+    max-height: 50px;
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: justify;
+}
+<p><img src="smiley.jpg" alt="Smiley face" hspace="20"> This is some text. This is some text. This is some text.</p>
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
