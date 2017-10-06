@@ -19,7 +19,7 @@ p {
 div {
     text-align: justify;
 }
-<p><img src="smiley.jpg" alt="Smiley face" hspace="20"> This is some text. This is some text. This is some text.</p>
+<p><img src="smiley.gif" alt="Smiley face" hspace="20"> This is some text. This is some text. This is some text.</p>
 img {
     float: right;
     margin: 0 0 10px 10px;
